@@ -1,0 +1,20 @@
+{
+  "name": "test-lodash",
+  "version": "1.0.0",
+  "description": "My funkadelic Nuxt.js project",
+  "author": "Atiqur Rahman",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build --analyze",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
